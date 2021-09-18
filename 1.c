@@ -2,7 +2,9 @@
 
 int main(int argc, const char *argv[])
 {
-	printf("hellowor");    
-	printf("hellowor");    
-    return 0;
+	printf("hellowor\n");    
+	printf("hellowor\n");    
+    printf("123\n");
+	return 0;
+
 }
